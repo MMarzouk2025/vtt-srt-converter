@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.675
+Hi everyone.
+
+00:00:02.675 --> 00:00:09.362
+My name is John Doe.
+
+00:00:09.363 --> 00:00:12.645
+Welcome to my course, this will be an interesting one.
+
+00:00:12.646 --> 00:00:15.645
+I have been working with Java for more than 7 years.
+
+00:00:15.645 --> 00:00:19.694
+I love the language and teaching all I know about it.
+
+00:00:19.695 --> 00:00:24.724
+An important part of developing high-quality software is testing.
+
+00:00:24.725 --> 00:00:29.026
+As a developer, you are in charge of unit testing your code,
+
+00:00:29.026 --> 00:00:33.419
+and in Java, JUnit is the most popular framework for this task.
+
+00:00:33.419 --> 00:00:36.816
+This course is designed for developers who are new to
+
+00:00:36.816 --> 00:00:40.351
+unit testing and want to learn JUnit 5,
+
+00:00:40.351 --> 00:00:45.619
+or already know JUnit 4 and want to learn about the features of the new version.
+
+00:00:45.619 --> 00:00:48.455
+Some of the major topics that we will cover include the new
+
+00:00:48.455 --> 00:00:52.475
+architecture of JUnit 5 and the problem it solves,
+
+00:00:52.475 --> 00:00:56.930
+how to use JUnit to create a static and dynamic test,
+
+00:00:56.930 --> 00:01:00.390
+how to extend JUnit with the new extension mechanism,
+
+00:01:00.390 --> 00:01:03.950
+and how to integrate JUnit with Gradle and Maven.
+
+00:01:03.950 --> 00:01:06.530
+By the end of this course,
+
+00:01:06.530 --> 00:01:10.883
+you'll understand how to use JUnit 5 to write unit tests.
+
+00:01:10.883 --> 00:01:15.568
+Before beginning the course, you should have a basic knowledge of Java 8,
+
+00:01:15.568 --> 00:01:19.394
+streams, lambda expressions, and default methods in interfaces.
